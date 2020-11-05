@@ -1,9 +1,5 @@
 <?php
 
-// https://antoine-herault.developpez.com/tutoriels/php/upload/
-// https://www.damienflandrin.fr/blog/post/tutoriel-comment-uploader-un-fichier-en-php
-
-
 if ($_SERVER['REQUEST_METHOD'] === 'POST'){
 
      $dossier = 'uploads/';
